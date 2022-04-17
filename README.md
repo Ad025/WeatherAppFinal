@@ -21,10 +21,10 @@ Group members:
 - Sarath Matthew
 
 Breif summary of the above steps:
-    After making a change
-    In order to get that to the Main Branch 
-    Just make a new branch and push it there
-    Then compare & pull request, and merge into main branch
+    - After making a change
+    - In order to get that to the Main Branch 
+    - Just make a new branch and push it there
+    - Then compare & pull request, and merge into main branch
 
 
 Commands:
