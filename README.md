@@ -18,7 +18,7 @@
 Group members:
 - Ashwin Daniel
 - Allyssa Olan
-- 
+- Sarath Matthew
 
 Breif summary of the above steps:
     After making a change
